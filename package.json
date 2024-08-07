@@ -1,14 +1,14 @@
 {
-    "name": "typescript-node-console",
-    "version": "1.0.0",
-    "description": "This is a TypeScript Node Console Project. Intended for prototyping or checkout other libraries etc. It is intentionally kept barebones",
-    "scripts": {
-        "exec": "tsc && node build/index.js"
-    },
-    "author": "Sathyajith P S",
-    "license": "MIT",
-    "devDependencies": {
-        "@types/node": "^18.14.2",
-        "typescript": "4.9.5"
-    }
+  "name": "typescript-node-console",
+  "version": "1.0.0",
+  "description": "This is a TypeScript Node Console Project. Intended for prototyping or checkout other libraries etc. It is intentionally kept barebones",
+  "scripts": {
+    "exec": "tsc && node build/index.js"
+  },
+  "author": "Sathyajith P S",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "typescript": "5.5.4"
+  }
 }
